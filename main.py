@@ -13,7 +13,7 @@ from videoDownloader import VideoDownload
 from videoCropper import VideoCropper
 from audioUtils import AudioExtractor
 
-API_TOKEN = '5785789868:AAG1M41VHJDeI8zSOyV08De--_D4uuGzHHw'
+API_TOKEN = ''
 CLEAR_FOLDERS_TIMER = 60
 
 bot = Bot(token=API_TOKEN)
